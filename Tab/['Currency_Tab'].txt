@@ -1,0 +1,51 @@
+Scroll of Wisdom
+Portal Scroll
+Armourer's Scraps
+Blacksmith's Whetstone
+Glassblower's Bauble
+Orb of Transmutation
+Orb of Augmentation
+Orb of Alteration
+Chromatic Orb
+Orb of Chance
+Jeweller's Orb
+Cartographer's Chisel
+Orb of Alchemy
+Orb of Scouring
+Orb of Fusing
+Blessed Orb
+Vaal Orb
+Chaos Orb
+Orb of Regret
+Gemcutter's Prism
+Regal Orb
+Divine Orb
+Exalted Orb
+Eternal Orb
+Mirror of Kalandra
+Orb of Annulment
+Silver Coin
+Perandus Coin
+Harbinger's Orb
+Ancient Orb
+Orb of Binding
+Engineer's Orb
+Simple Sextant
+Prime Sextant
+Awakened Sextant
+Exalted Shard
+Regal Shard
+Alchemy Shard
+Chaos Shard
+Scroll Fragment
+Transmutation Shard
+Alteration Shard
+Annulment Shard
+Regal Shard
+Alchemy Shard
+Chaos Shard
+Horizon Shard
+Binding Shard
+Harbinger's Shard
+Ancient Shard
+
